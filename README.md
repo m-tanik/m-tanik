@@ -14,8 +14,6 @@
 
 💬 Ask me about **Flutter, Dart, Firebase... or anything [here](https://m-tanik.github.io/)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
@@ -36,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,apple,c,python,html,css,github,sqlite" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,anaconda,javascript,firebase,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,tensorflow,anaconda,javascript,firebase,mysql,flask" /><br>
 </div>
 
 <br/>

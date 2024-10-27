@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Data Engineering, Calculus, DSA, Docker**
+ 🌱 I’m currently learning **Automation, Data Engineering, Calculus, DSA, Docker**
 
 💬 Ask me about **LLM, RAG data processing, AI Agents, Flutter, Dart, Firebase... or anything [here](https://m-tanik.github.io/)**
 

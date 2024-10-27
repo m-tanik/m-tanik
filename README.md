@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mamshad+Pathan+Tanik!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate AI and software developer</h3>
 
 <br/>
 
@@ -10,9 +10,9 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **BLOC, Calculus, DSA, Docker**
+ 🌱 I’m currently learning **Data Engineering, Calculus, DSA, Docker**
 
-💬 Ask me about **Flutter, Dart, Firebase... or anything [here](https://m-tanik.github.io/)**
+💬 Ask me about **LLM, RAG data processing, AI Agents, Flutter, Dart, Firebase... or anything [here](https://m-tanik.github.io/)**
 
  </div>
  
